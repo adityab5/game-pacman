@@ -30,4 +30,4 @@ Check out the live demo [Click Me](https://www.kapwing.com/videos/65e6c95dc63c1d
   <li>Reach the next level by clearing all pellets on the screen.</li>
   
 </ol>
-Signing off : <bhushanadiit55555@gmail.com>
+Signing off : [Aditya Bhushan](bhushanadiit55555@gmail.com)
